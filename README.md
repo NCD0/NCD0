@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ncd0/ncd0/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/users/NCD0/contributions" alt="Snake animation" />
 
 ###
