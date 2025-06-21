@@ -63,3 +63,6 @@
 <p align="center">
   <em>“hello wrold.” – NCD0</em>
 </p>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=NCD0.NCD0" alt="visitor badge"/>
+</p>
