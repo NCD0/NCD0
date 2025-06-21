@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+  <em>“hello wrold.” – NCD0</em>
 </p>
