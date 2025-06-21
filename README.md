@@ -63,7 +63,3 @@
 <p align="center">
   <em>“hello wrold.” – NCD0</em>
 </p>
-<p align="center">
-  <img src="https://visitor-counter.dev/NCD0/NCD0.svg" alt="Profile views" />
-</p>
-
