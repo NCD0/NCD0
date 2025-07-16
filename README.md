@@ -40,8 +40,8 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NCD0&show_icons=true&theme=tokyonight&hide_title=true" alt="NCD0's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncd0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2">
+  <img src="https://github-readme-stats.vercel.app/api?username=NCD0&show_icons=true&theme=tokyonight&hide_title=true" alt="NCD0's GitHub Stats" /></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncd0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" alt="Most used languages">
 </p>
 
 ---
