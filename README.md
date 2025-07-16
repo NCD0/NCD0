@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NCD0.NCD0&left_color=darkviolet&right_color=deeppink&left_text=Views" alt="Views">
-  <img src="https://github-readme-stats.vercel.app/api?username=NCD0&show_icons=true&theme=tokyonight&hide_title=true" alt="NCD0's GitHub Stats" /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=NCD0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" alt="NCD0's GitHub Stats" /></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncd0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" alt="Most used languages">
 </p>
 
