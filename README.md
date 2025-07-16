@@ -44,7 +44,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NCD0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" alt="NCD0's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NCD0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" alt="NCD0's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncd0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" alt="Most used languages" />
 </p>
