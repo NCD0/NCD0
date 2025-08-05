@@ -41,6 +41,15 @@
 
 ---
 
+<p align="center">
+  <a href="https://discord.com/users/963797247944966244">
+    <img src="https://lanyard.cnrad.dev/api/963797247944966244" />
+  </a>
+  <br>
+</p>
+
+---
+
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
